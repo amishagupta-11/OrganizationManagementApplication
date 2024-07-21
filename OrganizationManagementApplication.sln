@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationManagementApplication", "OrganizationManagementApplication\OrganizationManagementApplication.csproj", "{7DD18F2B-B29D-4010-950D-F23D2F39C885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD18F2B-B29D-4010-950D-F23D2F39C885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD18F2B-B29D-4010-950D-F23D2F39C885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD18F2B-B29D-4010-950D-F23D2F39C885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD18F2B-B29D-4010-950D-F23D2F39C885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2F5824-FBB1-4FB1-956B-A57EB6F4F17F}
+	EndGlobalSection
+EndGlobal
